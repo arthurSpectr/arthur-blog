@@ -1,0 +1,43 @@
+.title {
+    font-size: 30px;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: block;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.post {
+    width: 50%;
+    margin: 3% auto 3%;
+    display: block;
+    height: 200px;
+    text-align: center;
+    box-shadow: 1px 7px 5px black;
+    border: 1px solid;
+}
+
+.post-title {
+    font-size: 30px;
+    height: 50px;
+    background: lightblue;
+    vertical-align: center;
+}
+
+.post-text {
+    font-size: 24px;
+    vertical-align: center;
+}
+
+header {
+    background: cornflowerblue;
+}
+
+.header {
+    height: 100px;
+}
